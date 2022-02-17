@@ -12,7 +12,7 @@ public class HelloResource {
     @GET
     @Produces("text/plain")
     public String handleGreeting() {
-    	return "Hello World";
+    	return "Hello World!!!!!!!!!!!";";
     }
     
 }
